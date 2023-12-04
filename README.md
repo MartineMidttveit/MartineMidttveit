@@ -1,10 +1,8 @@
 ## ABOUT ME
 
 - 👋 Hi, I’m @MartineMidttveit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning **JavaScript, Frameworks & React.js**
+- 📫 How to reach me **[martinemidttveit@hotmail.com](mailto:martinemidttveit@hotmail.com)**
 
 ## LANGUAGES & TOOLS
 
@@ -17,13 +15,10 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/></code>
 
 ## CONTACT ME
+<a href="https://www.instagram.com/martinemidttveit/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Martine Midttveit Instagram" height="30" width="40"/>
+</a>
 
-<p align="left">
-  <a href="https://www.instagram.com/martinemidttveit/" target="blank" data-a11y-link-underlines="false">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Martine Midttveit Instagram" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/martine-midttveit-467799261/" target="blank" data-a11y-link-underlines="false">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martine Midttveit Linkedin" height="30" width="40"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/martine-midttveit-467799261/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Martine Midttveit Linkedin" height="30" width="40"/>
+</a>

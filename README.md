@@ -13,6 +13,9 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" alt="TailwindCSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/379231da3a3e439c86a76e0c978d4c1958695cb4/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 ## CONTACT ME
 <a href="https://www.instagram.com/martinemidttveit/" target="blank">

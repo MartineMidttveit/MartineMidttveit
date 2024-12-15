@@ -1,7 +1,7 @@
 ## ABOUT ME
 
 - 👋 Hi, I’m @MartineMidttveit
-- 🌱 I’m currently learning **JavaScript, Frameworks & React.js**
+- 🌱 I’m currently learning **React and the setup for Sanity**
 - 📫 How to reach me **[martinemidttveit@hotmail.com](mailto:martinemidttveit@hotmail.com)**
 
 ## LANGUAGES & TOOLS
